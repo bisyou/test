@@ -16,6 +16,7 @@ public class CsController {
 	@Mapping("com.awspaas.user.apps.cs_showTaskList")
 	public String showTaskList(UserContext uc) {
 		CsWeb cw =new CsWeb();
+		system.out.println("测试000000");
 		return cw.queryTask(uc);
 	}
 	
