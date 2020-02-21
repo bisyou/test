@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<boModel>
+    <id>5a7b0ca8-96d0-4248-aed0-bee9bd5c7fa2</id>
+    <createUser>admin</createUser>
+    <createTime>2019-06-03 15:46:11</createTime>
+    <updateUser></updateUser>
+    <updateTime>2019-06-03 15:46:11</updateTime>
+    <signature>tGOmxiTgjT/77UoYpSlq8Vc+hHPRoJWHdZexXc7zEpYuMNdhvSICeJnlc/RzRHGr3P5yfazIANW6W9W+icG7sVaNz86cRQmYq/XVyrRl8MiXZZ6Z/SjztgB4Db4Y5U5Z</signature>
+    <managed>false</managed>
+    <title>序号有效性测试</title>
+    <name>BO_CS_XHYXX</name>
+    <collection>false</collection>
+    <system>false</system>
+    <deleted>false</deleted>
+    <categoryName>测试</categoryName>
+    <administrator>admin</administrator>
+    <entityType>TABLE</entityType>
+    <viewType></viewType>
+    <viewSql></viewSql>
+    <securityLevel>0</securityLevel>
+    <target>_local</target>
+    <itemProps></itemProps>
+    <boItems/>
+    <boIndexs/>
+    <boRelations/>
+</boModel>

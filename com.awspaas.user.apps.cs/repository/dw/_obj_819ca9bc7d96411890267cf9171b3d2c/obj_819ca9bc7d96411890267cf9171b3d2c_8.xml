@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AWSDWModel>
+    <id>obj_819ca9bc7d96411890267cf9171b3d2c</id>
+    <createUser>admin</createUser>
+    <createTime>2019-06-13 16:19:38</createTime>
+    <updateUser></updateUser>
+    <updateTime>2019-06-13 16:42:42</updateTime>
+    <signature>tGOmxiTgjT/77UoYpSlq8Vc+hHPRoJWHdZexXc7zEpYuMNdhvSICeJnlc/RzRHGrjEkZW+td7hIRQUejTgLgLlPqttmUS82QUEj7ofXPebAipVtAH7k7PCU24jyuUa2a</signature>
+    <managed>false</managed>
+    <processGroupId>obj_819ca9bc7d96411890267cf9171b3d2c</processGroupId>
+    <processGroupName>隐藏子表保存按钮查询1</processGroupName>
+    <categoryName>查询</categoryName>
+    <dwType>1</dwType>
+    <processAdministrator>admin</processAdministrator>
+    <title id="obj_693cab185ae34272aab042c6c98e78f0" label="隐藏子表保存按钮查询1" extendcode="" event=""/>
+    <dataView id="obj_24f3d4d2e26f4568b980e668eac22442" label="首页" showType="link" orderIndex="0" dwReportType="1" isDefault="false" category="普通视图" implClassName="com.actionsoft.bpms.dw.design.dataview.CommonDataView" security="" event="" url="" userExtendJs="" show="true">
+        <showHighSecurity>false</showHighSecurity>
+        <dataParams>%7B%22dataMode%22%3A%7B%22pc%22%3A%7B%22type%22%3A%22table%22%7D%2C%22mobile%22%3A%7B%22type%22%3A%22list%22%2C%22template%22%3A%22%3Cdiv%20class%3D%5C%22awsui-grid-data%5C%22%3E%5Cn%5Ct%3Cdiv%20class%3D%5C%22awsui-grid-content%5C%22%20rowBehavior%3D%5C%22true%5C%22%3E%5Cn%5Ct%5Ct%3Cdiv%20class%3D%5C%22awsui-grid-column%5C%22%3E%5Cn%5Ct%5Ct%5Ct%3Cdiv%20class%3D%5C%22awsui-grid-left%20awsui-grid-title%20awsui-grid-ellipsis%5C%22%20dataIndx%3D%5C%22TITLECOLUMN%5C%22%3E%5B%23TITLECOLUMN%5D%3C/div%3E%5Cn%5Ct%5Ct%5Ct%3Cdiv%20class%3D%5C%22awsui-grid-right%20awsui-grid-subsidiary1%5C%22%20dataIndx%3D%5C%22DATECOLUMN%5C%22%3E%5B%23DATECOLUMN%5D%3C/div%3E%5Cn%5Ct%5Ct%3C/div%3E%5Cn%5Ct%5Ct%3Cdiv%20class%3D%5C%22awsui-grid-column%5C%22%20dataIndx%3D%5C%22CONTENTCOLUMN%5C%22%3E%5B%23CONTENTCOLUMN%5D%3C/div%3E%5Cn%5Ct%5Ct%3Cdiv%20class%3D%5C%22awsui-grid-column%20awsui-grid-bottom%5C%22%3E%5Cn%5Ct%5Ct%5Ct%3Cdiv%20class%3D%5C%22awsui-grid-subsidiary2%5C%22%20dataIndx%3D%5C%22SUBCOLUMN%5C%22%3E%5B%23SUBCOLUMN%5D%3C/div%3E%5Cn%5Ct%5Ct%3C/div%3E%5Cn%5Ct%3C/div%3E%5Cn%5Ct%3Cdiv%20class%3D%5C%22awsui-grid-toolbar%5C%22%3E%5Cn%5Ct%5Ct%3Cspan%20class%3D%5C%22awsui-iconfont%20more%5C%22%20toolbar%3D%5C%22true%5C%22%3E%26%23xe719%3B%3C/span%3E%5Cn%5Ct%3C/div%3E%5Cn%3C/div%3E%22%7D%7D%7D</dataParams>
+        <layoutECategoryType></layoutECategoryType>
+        <layoutECategoryTypeLast></layoutECategoryTypeLast>
+        <afterLoadEventCall></afterLoadEventCall>
+        <afterLoadEventScript></afterLoadEventScript>
+        <toolbar id="obj_5f3a72630fee4a318513acfd0efea2f2" isshow="true" extendcode="" event="">
+            <button id="obj_dd81246017fc4feda1419aa8ab321636" refbuttonid="save" cls="" security="" isshow="true" orderindex="1" mobileShow="false" event="" selectShow="false"/>
+            <button id="obj_09ff925dcd514bd7825f84b942caee0a" refbuttonid="new" cls="" security="" isshow="true" orderindex="2" mobileShow="false" event="" selectShow="false"/>
+            <button id="obj_b634129dd2d74acba56192c184e36740" refbuttonid="delete" cls="" security="" isshow="false" orderindex="3" mobileShow="false" event="" selectShow="true"/>
+            <button id="obj_1ccda8fd49014219833462469ddd701f" refbuttonid="print" cls="" security="" isshow="true" orderindex="4" mobileShow="false" event="" selectShow="false"/>
+            <button id="obj_0e3f393bb1534d8ab17224a3f41e8293" refbuttonid="refresh" cls="" security="" isshow="true" orderindex="5" mobileShow="false" event="" selectShow="false"/>
+            <button id="obj_54c0c61b98fa4855b3a53d17c1efaaec" refbuttonid="exportDWData" cls="" security="" isshow="false" orderindex="6" mobileShow="false" event="" selectShow="false"/>
+        </toolbar>
+        <searcher id="obj_b71a321fd7bb4cafac274992bef1a613" isshow="true" layoutType="list" tdGroup="3" textCls="" dwLeftCls="" dwRightCls="" extendcode="" event="" xconditionEvent="" tileOpen="false"/>
+        <navTree id="obj_103691dfad714053af72c8c5fe41e630" isshow="false" type="" rootcls="" leafcls="" ismultiple="false" isexpanded="true" orderindex="" event=""/>
+        <layout id="obj_f652d6cdaa414989b2da8f493ccaabf3" label="" classname="com.actionsoft.bpms.dw.exec.layout.LayoutA" event=""/>
+        <datagrid id="obj_30ba4fc5942243f4a6fa424e834a5ec5" isshow="true" autoSearch="true" customSet="true" select="false" datasource="sql:select * from BO_CS_YCZBBCAN where 1=1 and ???" countSql="select count(*) from BO_CS_YCZBBCAN where 1=1 and ???" pagesize="15" event="" rowDefHeight="25" showCheckBox="true" ismultiple="true" isshownumbercol="true" numberCellTotal="false" shownumbercolwidth="40" freezeCols="0" wrap="false" nowrapTitle="false" refbehaviorid="%7B%22behavior%22%3A%22obj_b4f61fe1368641d99c8037eb83ae958f%22%2C%22title%22%3A%22%22%2C%22w%22%3A%22%22%2C%22h%22%3A%22%22%2C%22sw%22%3A%22%22%2C%22isMask%22%3A0%2C%22ih%22%3A%22%22%7D" behaviortarget="tab" extendsql="" identifier="ID" extend1="" multiHeader="">
+            <column id="obj_5fd8e83ad6ca490982dadca806927776" sort="" isfilter="false" bgcolor="" fontcolor="" fontsize="12px" width="150px" colALias="" colTableAlias="" colTable="BO_CS_YCZBBCAN" length="" required="0" align="left" showrule="" upshowrule="" upDataClassName="" extend1="" extend2="" security="" securityLevel="0" event="" field="PARAM1" label="参数1" orderindex="0" colbehaviortarget="" ishidden="false" export="true" backHide="false" isusedvalue="false" tableheadsort="false" colrefbehaviorid="" columnAction="" datatype="TEXT" handleType="0" boType="" count="false"/>
+            <column id="obj_f2d8a69aa30040fc9591981c6c04e2d6" sort="" isfilter="false" bgcolor="" fontcolor="" fontsize="12px" width="150px" colALias="" colTableAlias="" colTable="BO_CS_YCZBBCAN" length="" required="0" align="left" showrule="" upshowrule="" upDataClassName="" extend1="" extend2="" security="" securityLevel="0" event="" field="PARAM2" label="参数2" orderindex="1" colbehaviortarget="" ishidden="false" export="true" backHide="false" isusedvalue="false" tableheadsort="false" colrefbehaviorid="" columnAction="" datatype="TEXT" handleType="0" boType="" count="false"/>
+            <column id="obj_13a861ad332643f29381d8fda66a8b9a" sort="" isfilter="false" bgcolor="" fontcolor="" fontsize="12px" width="120px" colALias="" colTableAlias="" colTable="" length="-1" required="0" align="left" showrule="{&quot;uiconfig&quot;:{&quot;blayout&quot;:&quot;tile&quot;,&quot;buttons&quot;:[{&quot;name&quot;:&quot;查看&quot;,&quot;cls&quot;:&quot;&quot;,&quot;reffun&quot;:&quot;obj_2043870208ef4e8bb84bbfb27c7e4859&quot;},{&quot;name&quot;:&quot;编辑&quot;,&quot;cls&quot;:&quot;&quot;,&quot;reffun&quot;:&quot;obj_63bb935864e24dc1b1375bccaa3a8f8e&quot;},{&quot;name&quot;:&quot;删除&quot;,&quot;cls&quot;:&quot;&quot;,&quot;reffun&quot;:&quot;obj_b4f61fe1368641d99c8037eb83ae958f&quot;}],&quot;uitype&quot;:&quot;buttons&quot;}}" upshowrule="" upDataClassName="" extend1="" extend2="" security="" securityLevel="0" event="" field="OPERATION" label="操作" orderindex="2" colbehaviortarget="" ishidden="false" export="false" backHide="false" isusedvalue="false" tableheadsort="true" colrefbehaviorid="" columnAction="" datatype="TEXT" handleType="3" boType="" count="false"/>
+            <column id="obj_9e6110d73cca43588a3addf42518d734" sort="" isfilter="false" bgcolor="" fontcolor="" fontsize="12px" width="110px" colALias="" colTableAlias="" colTable="BO_CS_YCZBBCAN" length="" required="0" align="left" showrule="" upshowrule="" upDataClassName="" extend1="" extend2="" security="" securityLevel="0" event="" field="ID" label="ID" orderindex="3" colbehaviortarget="" ishidden="false" export="true" backHide="false" isusedvalue="false" tableheadsort="false" colrefbehaviorid="" columnAction="" datatype="TEXT" handleType="0" boType="" count="false"/>
+            <column id="obj_c57674721bb6427d81a7096f6933997a" sort="" isfilter="false" bgcolor="" fontcolor="" fontsize="12px" width="110px" colALias="" colTableAlias="" colTable="BO_CS_YCZBBCAN" length="" required="0" align="left" showrule="" upshowrule="" upDataClassName="" extend1="" extend2="" security="" securityLevel="0" event="" field="BINDID" label="BINDID" orderindex="4" colbehaviortarget="" ishidden="false" export="true" backHide="false" isusedvalue="false" tableheadsort="false" colrefbehaviorid="" columnAction="" datatype="TEXT" handleType="0" boType="" count="false"/>
+        </datagrid>
+        <reportSetting></reportSetting>
+        <chartSetting></chartSetting>
+    </dataView>
+    <userextendbuttons/>
+    <userextendbehaviors>
+        <userextendbehavior id="obj_2043870208ef4e8bb84bbfb27c7e4859" name="查看">
+            <templatecall>onclick%3DshowData()</templatecall>
+            <templatescript>function showData()%7B%0A  var openType %3D %22readOnly%22%3B%0A  var target %3D %7Btype %3A 'tab'%2C title %3A %24%5BPARAM1%5D%7D%3B%0A%09openFormAPI(rowData%2C openType%2C target)%3B%0A%7D</templatescript>
+        </userextendbehavior>
+        <userextendbehavior id="obj_63bb935864e24dc1b1375bccaa3a8f8e" name="编辑">
+            <templatecall>onclick%3DeditData()</templatecall>
+            <templatescript>function editData() %7B%0A%09openFormAPI(rowData%2C %22modify%22%2C target)%3B%0A%7D</templatescript>
+        </userextendbehavior>
+        <userextendbehavior id="obj_b4f61fe1368641d99c8037eb83ae958f" name="删除">
+            <templatecall>onclick%3DdeleteData()</templatecall>
+            <templatescript>function deleteData()%7B%0A%09removeRowDataByMes(rowData)%3B%0A%7D</templatescript>
+        </userextendbehavior>
+    </userextendbehaviors>
+</AWSDWModel>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AWSDWModel>
+    <id>obj_138db4e6dbbc4480a0aa1ffaac089a6c</id>
+    <createUser>admin</createUser>
+    <createTime>2019-07-12 16:54:20</createTime>
+    <updateUser></updateUser>
+    <updateTime>2019-07-12 16:54:20</updateTime>
+    <signature>tGOmxiTgjT/77UoYpSlq8Vc+hHPRoJWHdZexXc7zEpYuMNdhvSICeJnlc/RzRHGr69w+XWzygxHeWOac0EkO8VyLa1iUwy4EwS1z5QYsXxa5/FMMNVsWLSzdYsJPHzfu</signature>
+    <managed>false</managed>
+    <processGroupId>obj_138db4e6dbbc4480a0aa1ffaac089a6c</processGroupId>
+    <processGroupName>异构取值</processGroupName>
+    <categoryName>未分类</categoryName>
+    <dwType>1</dwType>
+    <processAdministrator></processAdministrator>
+    <title id="obj_7634520a348049e5bbeb7abe1b1c8834" label="异构取值" extendcode="" event=""/>
+    <userextendbuttons/>
+    <userextendbehaviors/>
+</AWSDWModel>

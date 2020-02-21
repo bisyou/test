@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<formModel>
+    <id>168436c8-44c2-400b-ba28-f7db6867f323</id>
+    <createUser>admin</createUser>
+    <createTime>2019-08-24 14:11:23</createTime>
+    <updateUser></updateUser>
+    <updateTime>2019-08-24 14:11:23</updateTime>
+    <signature>DgQSSyFmOqrf7WQa6WFesZuTOnzFe+zevZg0BYW55MuhMOtUylRD92QW2MZY8fzuJpT3VjOuchHb3UPZ+2y2hat/fY0OX05udBSb6y9jIXckXAM8uj1YZu1cJ+uzen4b</signature>
+    <managed>false</managed>
+    <title>星期排序测试</title>
+    <deleted>false</deleted>
+    <categoryName>测试</categoryName>
+    <administrator>admin</administrator>
+    <defaultLanguage></defaultLanguage>
+    <url></url>
+    <urlHeight></urlHeight>
+    <formItems>
+        <formItem>
+            <id>adf92c97-001a-4537-bdc2-51677eb45410</id>
+            <title>星期排序测试</title>
+            <templateFile>{"tablet":"星期排序测试.htm","pc":"测试-星期排序测试.htm","mobile":"星期排序测试_m.htm"}</templateFile>
+            <grid>false</grid>
+            <gridSetting></gridSetting>
+            <orderBy></orderBy>
+            <pageLimit>0</pageLimit>
+            <boModelId>5580d21a-fcf5-4fa5-9a07-3bcb5b284772</boModelId>
+            <dictionaryFileName></dictionaryFileName>
+            <hiddenHead>false</hiddenHead>
+            <theme>{"pc":"_bpm.platform","mobile":"_bpm.platform"}</theme>
+            <itemDisplays/>
+            <scheme>{"pc":""}</scheme>
+            <calcFormula></calcFormula>
+            <conditionControl></conditionControl>
+            <validate></validate>
+            <icon></icon>
+            <gridControl></gridControl>
+            <summaryControl></summaryControl>
+            <ruleControl></ruleControl>
+            <hiddenFields></hiddenFields>
+            <hiddenAddBtn>false</hiddenAddBtn>
+        </formItem>
+    </formItems>
+</formModel>

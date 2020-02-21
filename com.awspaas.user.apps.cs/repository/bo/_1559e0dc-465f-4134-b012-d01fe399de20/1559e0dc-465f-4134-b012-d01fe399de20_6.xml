@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<boModel>
+    <id>1559e0dc-465f-4134-b012-d01fe399de20</id>
+    <createUser>admin</createUser>
+    <createTime>2019-06-04 14:07:04</createTime>
+    <updateUser></updateUser>
+    <updateTime>2019-06-04 14:07:04</updateTime>
+    <signature>tGOmxiTgjT/77UoYpSlq8Vc+hHPRoJWHdZexXc7zEpYuMNdhvSICeJnlc/RzRHGr+rdLOmT5iZsmbAD7tmBB5MRL5W3l0+QSLKujxz1gNuUGi0LcDTwQZFjgkoalT4U0</signature>
+    <managed>false</managed>
+    <title>定位组件测试</title>
+    <name>BO_CS_DWZJ</name>
+    <collection>false</collection>
+    <system>false</system>
+    <deleted>false</deleted>
+    <categoryName>测试</categoryName>
+    <administrator>admin</administrator>
+    <entityType>TABLE</entityType>
+    <viewType></viewType>
+    <viewSql></viewSql>
+    <securityLevel>0</securityLevel>
+    <target>_local</target>
+    <itemProps></itemProps>
+    <boItems/>
+    <boIndexs/>
+    <boRelations/>
+</boModel>

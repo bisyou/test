@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AWSDWModel>
+    <id>obj_14120e2316874e449973bb31298bb670</id>
+    <createUser>admin</createUser>
+    <createTime>2019-07-19 15:06:07</createTime>
+    <updateUser></updateUser>
+    <updateTime>2019-07-19 15:06:07</updateTime>
+    <signature>tGOmxiTgjT/77UoYpSlq8Vc+hHPRoJWHdZexXc7zEpYuMNdhvSICeJnlc/RzRHGrOyZtzA/UMH/M/r/U8QdFkY9YJ1bLyG60kRL+ncU8Vq1w3VpflxBl8owssahXA6gQ</signature>
+    <managed>false</managed>
+    <processGroupId>obj_14120e2316874e449973bb31298bb670</processGroupId>
+    <processGroupName>源数据</processGroupName>
+    <categoryName>未分类</categoryName>
+    <dwType>1</dwType>
+    <processAdministrator></processAdministrator>
+    <title id="obj_ecd4c0d881744a5a8354cb3131fe92bf" label="源数据" extendcode="" event=""/>
+    <userextendbuttons/>
+    <userextendbehaviors/>
+</AWSDWModel>

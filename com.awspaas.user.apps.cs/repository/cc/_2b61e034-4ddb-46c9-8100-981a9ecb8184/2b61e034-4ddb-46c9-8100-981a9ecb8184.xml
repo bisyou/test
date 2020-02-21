@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ccModel>
+    <id>2b61e034-4ddb-46c9-8100-981a9ecb8184</id>
+    <createUser>admin</createUser>
+    <createTime>2019-08-16 11:43:11</createTime>
+    <updateUser></updateUser>
+    <updateTime>2019-08-16 11:43:11</updateTime>
+    <signature>tGOmxiTgjT/77UoYpSlq8Vc+hHPRoJWHdZexXc7zEpYuMNdhvSICeJnlc/RzRHGr+EX25uTqpCP3h3NzjJN06fCd+ODr+lIwCo4BL8HzygWt2Aivq5q/4V0GNz408f2X</signature>
+    <managed>false</managed>
+    <name>推送指定用户的待办任务到外部系统</name>
+    <type>wsprovider</type>
+    <group></group>
+    <log>true</log>
+    <properties>{"serviceInterType":"java","svProxy":"","sei":"","audit":true,"name":"推送指定用户的待办任务到外部系统","svType":"sr","serviceImplType":"j","serviceId":"PushDataToExternalSystem","policy":"","desc":"","group":"","serviceImpl":"com.awspaas.user.apps.cs.soap.PushDataSoapWebServer","serviceTranType":"http"}</properties>
+    <desc></desc>
+</ccModel>

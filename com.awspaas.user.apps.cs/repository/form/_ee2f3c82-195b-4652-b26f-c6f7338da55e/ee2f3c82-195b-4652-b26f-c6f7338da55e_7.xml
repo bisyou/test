@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<formModel>
+    <id>ee2f3c82-195b-4652-b26f-c6f7338da55e</id>
+    <createUser>admin</createUser>
+    <createTime>2019-06-06 14:01:25</createTime>
+    <updateUser></updateUser>
+    <updateTime>2019-07-12 16:49:26</updateTime>
+    <signature>tGOmxiTgjT/77UoYpSlq8Vc+hHPRoJWHdZexXc7zEpYuMNdhvSICeJnlc/RzRHGrxyYtIgCn0NmZpZuFSGjGBxurqSkzOBvq4YfbcZnSdChmO7Ok9dunc4eL0OBW0sey</signature>
+    <managed>false</managed>
+    <title>异构取值测试</title>
+    <deleted>false</deleted>
+    <categoryName>测试</categoryName>
+    <administrator>admin</administrator>
+    <defaultLanguage></defaultLanguage>
+    <url></url>
+    <urlHeight></urlHeight>
+    <formItems>
+        <formItem>
+            <id>ac151c4b-ddb1-499f-8243-751394fdec8e</id>
+            <title>异构取值</title>
+            <templateFile>{"tablet":"异构取值测试.htm","pc":"测试-异构取值测试.htm","mobile":"测试-异构取值测试_m.htm"}</templateFile>
+            <grid>false</grid>
+            <gridSetting></gridSetting>
+            <orderBy></orderBy>
+            <pageLimit>0</pageLimit>
+            <boModelId>6bae5deb-546c-4834-96f7-70cad650b49b</boModelId>
+            <dictionaryFileName></dictionaryFileName>
+            <hiddenHead>false</hiddenHead>
+            <theme>{"pc":"_bpm.platform","mobile":"_bpm.platform"}</theme>
+            <itemDisplays/>
+            <scheme>{"pc":"scheme_aws.css","mobile":""}</scheme>
+            <calcFormula></calcFormula>
+            <conditionControl></conditionControl>
+            <validate></validate>
+            <icon></icon>
+            <gridControl></gridControl>
+            <summaryControl></summaryControl>
+            <ruleControl></ruleControl>
+            <hiddenFields></hiddenFields>
+            <hiddenAddBtn>false</hiddenAddBtn>
+        </formItem>
+    </formItems>
+</formModel>

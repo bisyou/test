@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<formModel>
+    <id>fc824f13-593f-40c5-96a8-c363fe0a0002</id>
+    <createUser>admin</createUser>
+    <createTime>2019-06-06 14:21:17</createTime>
+    <updateUser></updateUser>
+    <updateTime>2019-06-06 14:21:20</updateTime>
+    <signature>tGOmxiTgjT/77UoYpSlq8Vc+hHPRoJWHdZexXc7zEpYuMNdhvSICeJnlc/RzRHGryBP58H4P/a+n8ZHGZiOL/x7/AyAJIFJtgu1mL212OGZoARRfOyeIcjHB5RgB691o</signature>
+    <managed>false</managed>
+    <title>异构人员信息取值测试</title>
+    <deleted>false</deleted>
+    <categoryName>测试</categoryName>
+    <administrator>admin</administrator>
+    <defaultLanguage></defaultLanguage>
+    <url></url>
+    <urlHeight></urlHeight>
+    <formItems>
+        <formItem>
+            <id>fa610399-ffa4-4e60-834e-7aaea235363a</id>
+            <title>异构人员信息取值测试</title>
+            <templateFile>{"tablet":"异构人员信息取值测试.htm","pc":"测试-异构人员信息取值测试.htm","mobile":"测试-异构人员信息取值测试_m.htm"}</templateFile>
+            <grid>false</grid>
+            <gridSetting></gridSetting>
+            <orderBy></orderBy>
+            <pageLimit>0</pageLimit>
+            <boModelId>dc8b6e8e-6d0b-411c-abdc-7e8c95b0a709</boModelId>
+            <dictionaryFileName></dictionaryFileName>
+            <hiddenHead>false</hiddenHead>
+            <theme>{"pc":"_bpm.platform","mobile":"_bpm.platform"}</theme>
+            <itemDisplays/>
+            <scheme>{"pc":"scheme_aws.css","mobile":""}</scheme>
+            <calcFormula></calcFormula>
+            <conditionControl></conditionControl>
+            <validate></validate>
+            <icon></icon>
+            <gridControl></gridControl>
+            <summaryControl></summaryControl>
+            <ruleControl></ruleControl>
+            <hiddenFields></hiddenFields>
+            <hiddenAddBtn>false</hiddenAddBtn>
+        </formItem>
+    </formItems>
+</formModel>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AWSDWModel>
+    <id>obj_6942932eb356414d9f72dabfb270cd7f</id>
+    <createUser>admin</createUser>
+    <createTime>2019-06-06 17:29:21</createTime>
+    <updateUser></updateUser>
+    <updateTime>2019-06-06 17:29:22</updateTime>
+    <signature>tGOmxiTgjT/77UoYpSlq8Vc+hHPRoJWHdZexXc7zEpYuMNdhvSICeJnlc/RzRHGrIzKs9JviEog4zWWwt6uGrqOK5e6OlB5+jsjJfQIZvFXQFIPKbVjiv1cNznHwwi1B</signature>
+    <managed>false</managed>
+    <processGroupId>obj_6942932eb356414d9f72dabfb270cd7f</processGroupId>
+    <processGroupName>异构人员信息查询</processGroupName>
+    <categoryName>未分类</categoryName>
+    <dwType>1</dwType>
+    <processAdministrator>admin</processAdministrator>
+    <title id="obj_7f785d2d8852476eb3aecc30a0ed76bb" label="异构人员信息查询" extendcode="" event=""/>
+    <dataView id="obj_c4b44542ffb24b77a9799861a9ff2efd" label="首页" showType="link" orderIndex="0" dwReportType="1" isDefault="false" category="普通视图" implClassName="com.actionsoft.bpms.dw.design.dataview.CommonDataView" security="" event="" url="" userExtendJs="" show="true">
+        <showHighSecurity>false</showHighSecurity>
+        <dataParams></dataParams>
+        <layoutECategoryType></layoutECategoryType>
+        <layoutECategoryTypeLast></layoutECategoryTypeLast>
+        <afterLoadEventCall></afterLoadEventCall>
+        <afterLoadEventScript></afterLoadEventScript>
+        <toolbar id="obj_4f3fa344c2634216924822456579ac87" isshow="true" extendcode="" event="">
+            <button id="obj_1031ca7c42064a99a9ce5fbe88795f39" refbuttonid="save" cls="" security="" isshow="true" orderindex="1" mobileShow="false" event="" selectShow="false"/>
+            <button id="obj_72aa405ccdf849ac807074195b8182ff" refbuttonid="new" cls="" security="" isshow="true" orderindex="2" mobileShow="false" event="" selectShow="false"/>
+            <button id="obj_3a653a7061ed4b23b27ae42798cc530e" refbuttonid="delete" cls="" security="" isshow="false" orderindex="3" mobileShow="false" event="" selectShow="true"/>
+            <button id="obj_6394ebf75ff74c9882c4d9e444ca33c0" refbuttonid="print" cls="" security="" isshow="true" orderindex="4" mobileShow="false" event="" selectShow="false"/>
+            <button id="obj_deb704b59c9343c691bf03b0656b19bf" refbuttonid="refresh" cls="" security="" isshow="true" orderindex="5" mobileShow="false" event="" selectShow="false"/>
+            <button id="obj_04d782caaa2942e589a24150b9d973dd" refbuttonid="exportDWData" cls="" security="" isshow="false" orderindex="6" mobileShow="false" event="" selectShow="false"/>
+        </toolbar>
+        <searcher id="obj_3de0ef583aa0492eb3f35b5a5aae6277" isshow="true" layoutType="list" tdGroup="3" textCls="" dwLeftCls="" dwRightCls="" extendcode="" event="" xconditionEvent="" tileOpen="false"/>
+        <navTree id="obj_2214266021e1400681d5df7c53c9677a" isshow="false" type="" rootcls="" leafcls="" ismultiple="false" isexpanded="true" orderindex="" event=""/>
+        <layout id="obj_266d72e30ec74cf99f583014a275baf9" label="" classname="com.actionsoft.bpms.dw.exec.layout.LayoutA" event=""/>
+        <datagrid id="obj_d7cbbe089c0548eeb80e4a688a1f7739" isshow="true" autoSearch="true" customSet="true" select="false" datasource="" countSql="" pagesize="0" event="" rowDefHeight="25" showCheckBox="true" ismultiple="false" isshownumbercol="true" numberCellTotal="false" shownumbercolwidth="" freezeCols="0" wrap="false" nowrapTitle="false" refbehaviorid="" behaviortarget="" extendsql="" identifier="" extend1="" multiHeader=""/>
+        <reportSetting></reportSetting>
+        <chartSetting></chartSetting>
+    </dataView>
+    <userextendbuttons/>
+    <userextendbehaviors/>
+</AWSDWModel>

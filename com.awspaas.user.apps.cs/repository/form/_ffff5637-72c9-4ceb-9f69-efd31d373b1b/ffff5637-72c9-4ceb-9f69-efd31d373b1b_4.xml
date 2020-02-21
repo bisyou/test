@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<formModel>
+    <id>ffff5637-72c9-4ceb-9f69-efd31d373b1b</id>
+    <createUser>admin</createUser>
+    <createTime>2019-07-29 09:15:42</createTime>
+    <updateUser></updateUser>
+    <updateTime>2019-07-29 09:15:42</updateTime>
+    <signature>tGOmxiTgjT/77UoYpSlq8Vc+hHPRoJWHdZexXc7zEpYuMNdhvSICeJnlc/RzRHGr+FQolRvIRW1t9sySv1j3k9ysedocSqMr9Rb204UrdvtkR4FN3JhA/S0aFkr93/OA</signature>
+    <managed>false</managed>
+    <title>物品类别测试</title>
+    <deleted>false</deleted>
+    <categoryName>测试</categoryName>
+    <administrator>admin</administrator>
+    <defaultLanguage></defaultLanguage>
+    <url></url>
+    <urlHeight></urlHeight>
+    <formItems>
+        <formItem>
+            <id>8e287a4e-8b1e-45da-a2d0-22c5937d4659</id>
+            <title>物品类别测试</title>
+            <templateFile>{"tablet":"物品类别测试.htm","pc":"物品类别测试.htm","mobile":"物品类别测试_m.htm"}</templateFile>
+            <grid>false</grid>
+            <gridSetting></gridSetting>
+            <orderBy></orderBy>
+            <pageLimit>0</pageLimit>
+            <boModelId>f68e38f1-0729-4ff2-bb07-b5a103e2bfda</boModelId>
+            <dictionaryFileName></dictionaryFileName>
+            <hiddenHead>false</hiddenHead>
+            <theme>{"pc":"_bpm.platform","mobile":"_bpm.platform"}</theme>
+            <itemDisplays/>
+            <scheme>{}</scheme>
+            <calcFormula></calcFormula>
+            <conditionControl></conditionControl>
+            <validate></validate>
+            <icon></icon>
+            <gridControl></gridControl>
+            <summaryControl></summaryControl>
+            <ruleControl></ruleControl>
+            <hiddenFields></hiddenFields>
+            <hiddenAddBtn>false</hiddenAddBtn>
+        </formItem>
+    </formItems>
+</formModel>

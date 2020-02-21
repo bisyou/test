@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AWSDWModel>
+    <id>obj_d714780625cd4c9584d8ee280715a2db</id>
+    <createUser>admin</createUser>
+    <createTime>2019-08-12 16:07:30</createTime>
+    <updateUser></updateUser>
+    <updateTime>2019-08-12 16:07:30</updateTime>
+    <signature>tGOmxiTgjT/77UoYpSlq8Vc+hHPRoJWHdZexXc7zEpYuMNdhvSICeJnlc/RzRHGrDj2IvGWBBjGGurp1WOnHmEXN4jK2mOZ5hjdpXy2rCaKvWgF/eLhZVn+AeNAn3zwx</signature>
+    <managed>false</managed>
+    <processGroupId>obj_d714780625cd4c9584d8ee280715a2db</processGroupId>
+    <processGroupName>可用库存台账</processGroupName>
+    <categoryName>未分类</categoryName>
+    <dwType>1</dwType>
+    <processAdministrator></processAdministrator>
+    <title id="obj_dd3d13c958c9482ca37dfd42c9121c3d" label="可用库存台账" extendcode="" event=""/>
+    <userextendbuttons/>
+    <userextendbehaviors/>
+</AWSDWModel>

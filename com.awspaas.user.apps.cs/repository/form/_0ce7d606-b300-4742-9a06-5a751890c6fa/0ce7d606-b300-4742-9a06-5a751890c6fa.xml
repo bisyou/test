@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<formModel>
+    <id>0ce7d606-b300-4742-9a06-5a751890c6fa</id>
+    <createUser>admin</createUser>
+    <createTime>2019-08-12 16:06:53</createTime>
+    <updateUser></updateUser>
+    <updateTime>2019-08-13 12:37:20</updateTime>
+    <signature>tGOmxiTgjT/77UoYpSlq8Vc+hHPRoJWHdZexXc7zEpYuMNdhvSICeJnlc/RzRHGrYFcapTPLDSVMeyGpqUhSkutiZ9cRR/1E3H83hKEZnxnTs9BWXOl7zpdBEm/Kn17K</signature>
+    <managed>false</managed>
+    <title>可用库存测试</title>
+    <deleted>false</deleted>
+    <categoryName>测试</categoryName>
+    <administrator>admin</administrator>
+    <defaultLanguage></defaultLanguage>
+    <url></url>
+    <urlHeight></urlHeight>
+    <formItems>
+        <formItem>
+            <id>30ab8389-6ac8-45fc-b07f-f15e8629319e</id>
+            <title>可用库存测试</title>
+            <templateFile>{"tablet":"可用库存测试.htm","pc":"测试-可用库存测试.htm","mobile":"测试-可用库存测试_m.htm"}</templateFile>
+            <grid>false</grid>
+            <gridSetting></gridSetting>
+            <orderBy></orderBy>
+            <pageLimit>0</pageLimit>
+            <boModelId>af539f8c-1d50-41ce-b21f-799368bb6a33</boModelId>
+            <dictionaryFileName></dictionaryFileName>
+            <hiddenHead>false</hiddenHead>
+            <theme>{"pc":"_bpm.platform","mobile":"_bpm.platform"}</theme>
+            <itemDisplays/>
+            <scheme>{"pc":"scheme_aws.css","mobile":""}</scheme>
+            <calcFormula></calcFormula>
+            <conditionControl></conditionControl>
+            <validate></validate>
+            <icon></icon>
+            <gridControl></gridControl>
+            <summaryControl></summaryControl>
+            <ruleControl></ruleControl>
+            <hiddenFields></hiddenFields>
+            <hiddenAddBtn>false</hiddenAddBtn>
+        </formItem>
+        <formItem>
+            <id>136b5c39-6969-4970-a5ed-55fb2c92f77e</id>
+            <title>可用库存明细</title>
+            <templateFile>{"tablet":"","pc":"","mobile":""}</templateFile>
+            <grid>true</grid>
+            <gridSetting>{"width":"100%","height":"","dlgWidth":"90%","dlgHeight":"90%","gridStyle":"thin","gridOpenMode":"dialog","gridSideWidth":"80%","gridSideMode":"false","displayTitle":"false","renderType":"grid","renderClass":"","fontColor":[],"colColor":[],"wrap":false,"columnResizable":false,"freezeCols":"0","sort":"","grouping":"","addSort":"bottom","mobileRenderClass":""}</gridSetting>
+            <orderBy></orderBy>
+            <pageLimit>0</pageLimit>
+            <boModelId>8d3605bf-dafa-4030-8988-cb27e3129478</boModelId>
+            <dictionaryFileName>[]</dictionaryFileName>
+            <hiddenHead>false</hiddenHead>
+            <theme>{"pc":"_bpm.platform","mobile":"_bpm.platform"}</theme>
+            <itemDisplays/>
+            <scheme>{}</scheme>
+            <calcFormula></calcFormula>
+            <conditionControl>{}</conditionControl>
+            <validate></validate>
+            <icon></icon>
+            <gridControl>{"isCollapse":false,"title":"","unit":"","event":"","stat":"","field":"","isMultiColumn":false,"mobileGridRowDisplay":"","mobileRenderClass":""}</gridControl>
+            <summaryControl></summaryControl>
+            <ruleControl>{"displayRule":[],"requiredRule":[],"modifyRule":[],"calcRule":[]}</ruleControl>
+            <hiddenFields></hiddenFields>
+            <hiddenAddBtn>false</hiddenAddBtn>
+        </formItem>
+    </formItems>
+</formModel>

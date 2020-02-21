@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<boModel>
+    <id>58ba0add-2f3c-4cd2-a2e3-0900370c23c4</id>
+    <createUser>admin</createUser>
+    <createTime>2019-07-04 15:35:46</createTime>
+    <updateUser></updateUser>
+    <updateTime>2019-07-04 15:35:46</updateTime>
+    <signature>tGOmxiTgjT/77UoYpSlq8Vc+hHPRoJWHdZexXc7zEpYuMNdhvSICeJnlc/RzRHGryLOmiTQL1gCkBJSNvnBqQCY/urTAnq2TgQJRXx8EYINGzxo/UNqreEzKx2rJ/aOr</signature>
+    <managed>false</managed>
+    <title>隐藏审批记录测试</title>
+    <name>BO_CS_YCSPJLCS</name>
+    <collection>false</collection>
+    <system>false</system>
+    <deleted>false</deleted>
+    <categoryName>测试</categoryName>
+    <administrator>admin</administrator>
+    <entityType>TABLE</entityType>
+    <viewType></viewType>
+    <viewSql></viewSql>
+    <securityLevel>0</securityLevel>
+    <target>_local</target>
+    <itemProps></itemProps>
+    <boItems/>
+    <boIndexs/>
+    <boRelations/>
+</boModel>

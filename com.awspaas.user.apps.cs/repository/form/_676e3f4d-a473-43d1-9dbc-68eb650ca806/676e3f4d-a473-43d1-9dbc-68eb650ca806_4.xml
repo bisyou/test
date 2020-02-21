@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<formModel>
+    <id>676e3f4d-a473-43d1-9dbc-68eb650ca806</id>
+    <createUser>admin</createUser>
+    <createTime>2019-07-16 15:20:49</createTime>
+    <updateUser></updateUser>
+    <updateTime>2019-07-16 15:20:49</updateTime>
+    <signature>tGOmxiTgjT/77UoYpSlq8Vc+hHPRoJWHdZexXc7zEpYuMNdhvSICeJnlc/RzRHGrb3J3ZALVSIQV7r7u0ShXj/0y2LZ84UEdzw8G30O9mBWm3XyLlqq74kwhx3h//2vo</signature>
+    <managed>false</managed>
+    <title>审批记录排序测试</title>
+    <deleted>false</deleted>
+    <categoryName>测试</categoryName>
+    <administrator>admin</administrator>
+    <defaultLanguage></defaultLanguage>
+    <url></url>
+    <urlHeight></urlHeight>
+    <formItems>
+        <formItem>
+            <id>0609b73d-f3f9-4cb2-9486-877bbca9fe82</id>
+            <title>审批记录排序测试</title>
+            <templateFile>{"tablet":"审批记录排序测试.htm","pc":"测试-审批记录排序测试.htm","mobile":"测试-审批记录排序测试_m.htm"}</templateFile>
+            <grid>false</grid>
+            <gridSetting></gridSetting>
+            <orderBy></orderBy>
+            <pageLimit>0</pageLimit>
+            <boModelId>fbc6bba5-9ed7-4370-85ce-695a55b642a2</boModelId>
+            <dictionaryFileName></dictionaryFileName>
+            <hiddenHead>false</hiddenHead>
+            <theme>{"pc":"_bpm.platform","mobile":"_bpm.platform"}</theme>
+            <itemDisplays/>
+            <scheme>{"pc":"","mobile":""}</scheme>
+            <calcFormula></calcFormula>
+            <conditionControl></conditionControl>
+            <validate></validate>
+            <icon></icon>
+            <gridControl></gridControl>
+            <summaryControl></summaryControl>
+            <ruleControl></ruleControl>
+            <hiddenFields></hiddenFields>
+            <hiddenAddBtn>false</hiddenAddBtn>
+        </formItem>
+    </formItems>
+</formModel>

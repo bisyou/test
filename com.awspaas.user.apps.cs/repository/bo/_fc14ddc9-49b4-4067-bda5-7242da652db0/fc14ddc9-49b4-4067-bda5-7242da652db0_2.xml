@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<boModel>
+    <id>fc14ddc9-49b4-4067-bda5-7242da652db0</id>
+    <createUser>admin</createUser>
+    <createTime>2019-07-01 20:04:25</createTime>
+    <updateUser></updateUser>
+    <updateTime>2019-07-01 20:04:45</updateTime>
+    <signature>tGOmxiTgjT/77UoYpSlq8Vc+hHPRoJWHdZexXc7zEpYuMNdhvSICeJnlc/RzRHGrDO/w/mjPMxb1kyoPUgw3NH10MCT+jrGZdujcqpzVfufRP9m9yG+MvPu07tYpuNQ/</signature>
+    <managed>false</managed>
+    <title>名称测试</title>
+    <name>BO_CS_MCCS</name>
+    <collection>false</collection>
+    <system>false</system>
+    <deleted>false</deleted>
+    <categoryName>测试</categoryName>
+    <administrator>admin</administrator>
+    <entityType>TABLE</entityType>
+    <viewType></viewType>
+    <viewSql></viewSql>
+    <securityLevel>0</securityLevel>
+    <target>_local</target>
+    <itemProps></itemProps>
+    <boItems>
+        <boItem>
+            <id>2981a27e-1dce-429a-b5e2-ab9fbf66a331</id>
+            <name>NAME</name>
+            <title>名称</title>
+            <columnType>TEXT</columnType>
+            <length>128</length>
+            <nullable>true</nullable>
+            <defaultValue></defaultValue>
+            <columnWidth>100</columnWidth>
+            <componentId>AWSUI.Text</componentId>
+            <componentSetting>{"search":"0"}</componentSetting>
+            <display>true</display>
+            <deleted>false</deleted>
+            <modify>true</modify>
+            <componentExtendCode></componentExtendCode>
+            <persistenceType>ENTITY</persistenceType>
+            <validateType></validateType>
+            <validateRule></validateRule>
+            <validateTip></validateTip>
+            <validateErr>0</validateErr>
+            <tooltip></tooltip>
+            <copy>false</copy>
+            <displayRule></displayRule>
+            <calcFormula></calcFormula>
+            <propsVal>{}</propsVal>
+        </boItem>
+    </boItems>
+    <boIndexs/>
+    <boRelations/>
+</boModel>

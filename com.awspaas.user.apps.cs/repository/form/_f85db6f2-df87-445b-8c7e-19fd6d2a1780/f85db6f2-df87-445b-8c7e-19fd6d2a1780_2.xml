@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<formModel>
+    <id>f85db6f2-df87-445b-8c7e-19fd6d2a1780</id>
+    <createUser>admin</createUser>
+    <createTime>2019-06-03 15:49:42</createTime>
+    <updateUser></updateUser>
+    <updateTime>2019-06-03 15:49:42</updateTime>
+    <signature>tGOmxiTgjT/77UoYpSlq8Vc+hHPRoJWHdZexXc7zEpYuMNdhvSICeJnlc/RzRHGr1KLJ6Qf1w/Z9Ib9QuejQUxspehvhDm+IW9/iNDQvZeNX5PyXmKo+dOFBASCHrRCm</signature>
+    <managed>false</managed>
+    <title>序号有效性测试</title>
+    <deleted>false</deleted>
+    <categoryName>测试</categoryName>
+    <administrator>admin</administrator>
+    <defaultLanguage></defaultLanguage>
+    <url></url>
+    <urlHeight></urlHeight>
+    <formItems>
+        <formItem>
+            <id>3a7b080f-84bd-45ca-9c77-548e9b618640</id>
+            <title>序号有效性测试</title>
+            <templateFile>{"tablet":"序号有效性测试.htm","pc":"测试-序号有效性测试.htm","mobile":"测试-序号有效性测试_m.htm"}</templateFile>
+            <grid>false</grid>
+            <gridSetting></gridSetting>
+            <orderBy></orderBy>
+            <pageLimit>0</pageLimit>
+            <boModelId>5a7b0ca8-96d0-4248-aed0-bee9bd5c7fa2</boModelId>
+            <dictionaryFileName></dictionaryFileName>
+            <hiddenHead>false</hiddenHead>
+            <theme>{"pc":"_bpm.platform","mobile":"_bpm.platform"}</theme>
+            <itemDisplays/>
+            <scheme>{"pc":"","mobile":""}</scheme>
+            <calcFormula></calcFormula>
+            <conditionControl></conditionControl>
+            <validate></validate>
+            <icon></icon>
+            <gridControl></gridControl>
+            <summaryControl></summaryControl>
+            <ruleControl></ruleControl>
+            <hiddenFields></hiddenFields>
+            <hiddenAddBtn>false</hiddenAddBtn>
+        </formItem>
+    </formItems>
+</formModel>

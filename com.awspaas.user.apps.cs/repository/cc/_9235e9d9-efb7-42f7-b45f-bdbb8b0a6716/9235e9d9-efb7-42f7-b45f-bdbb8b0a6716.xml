@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ccModel>
+    <id>9235e9d9-efb7-42f7-b45f-bdbb8b0a6716</id>
+    <createUser>admin</createUser>
+    <createTime>2019-06-06 11:39:51</createTime>
+    <updateUser>admin</updateUser>
+    <updateTime>2019-06-06 17:24:06</updateTime>
+    <signature>tGOmxiTgjT/77UoYpSlq8Vc+hHPRoJWHdZexXc7zEpYuMNdhvSICeJnlc/RzRHGrI/9JCMmn/dkYnbk8jLeWXEccG2BBuXyTpMK9r71GPhXnwl8Ih3Y021yCmEcaJwQW</signature>
+    <managed>false</managed>
+    <name>思古平台数据库</name>
+    <type>jdbc</type>
+    <group></group>
+    <log>false</log>
+    <properties>{"password":"dglUMB2w3vxjvwdGd42JfQ==","driver":"com.mysql.jdbc.Driver","poolInit":"10","poolMax":"100","diyData":[],"user":"root","url":"jdbc:mysql://129.28.38.165:3306/aws6.2.14","group":"","desc":""}</properties>
+    <desc></desc>
+</ccModel>

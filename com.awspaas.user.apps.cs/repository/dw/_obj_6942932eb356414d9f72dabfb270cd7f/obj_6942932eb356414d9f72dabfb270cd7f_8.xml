@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AWSDWModel>
+    <id>obj_6942932eb356414d9f72dabfb270cd7f</id>
+    <createUser>admin</createUser>
+    <createTime>2019-06-06 17:29:21</createTime>
+    <updateUser></updateUser>
+    <updateTime>2019-06-06 17:29:21</updateTime>
+    <signature>tGOmxiTgjT/77UoYpSlq8Vc+hHPRoJWHdZexXc7zEpYuMNdhvSICeJnlc/RzRHGrIzKs9JviEog4zWWwt6uGrqOK5e6OlB5+jsjJfQIZvFXQFIPKbVjiv1cNznHwwi1B</signature>
+    <managed>false</managed>
+    <processGroupId>obj_6942932eb356414d9f72dabfb270cd7f</processGroupId>
+    <processGroupName>异构人员信息查询</processGroupName>
+    <categoryName>未分类</categoryName>
+    <dwType>1</dwType>
+    <processAdministrator></processAdministrator>
+    <title id="obj_7f785d2d8852476eb3aecc30a0ed76bb" label="异构人员信息查询" extendcode="" event=""/>
+    <userextendbuttons/>
+    <userextendbehaviors/>
+</AWSDWModel>

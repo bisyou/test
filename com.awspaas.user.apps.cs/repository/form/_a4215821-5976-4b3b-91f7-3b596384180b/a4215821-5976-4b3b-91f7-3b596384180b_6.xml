@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<formModel>
+    <id>a4215821-5976-4b3b-91f7-3b596384180b</id>
+    <createUser>admin</createUser>
+    <createTime>2019-06-04 14:09:04</createTime>
+    <updateUser></updateUser>
+    <updateTime>2019-06-04 14:09:04</updateTime>
+    <signature>tGOmxiTgjT/77UoYpSlq8Vc+hHPRoJWHdZexXc7zEpYuMNdhvSICeJnlc/RzRHGrXLxMxBtDDYPi63k32pcXWgrpMgy8HsBl0WQHfII5wDO+X7efLueI7O3JhULPR1dC</signature>
+    <managed>false</managed>
+    <title>定位组件测试</title>
+    <deleted>false</deleted>
+    <categoryName>测试</categoryName>
+    <administrator>admin</administrator>
+    <defaultLanguage></defaultLanguage>
+    <url></url>
+    <urlHeight></urlHeight>
+    <formItems>
+        <formItem>
+            <id>90b96bd3-44f3-4d74-a055-55425319bfdb</id>
+            <title>定位组件测试</title>
+            <templateFile>{"tablet":"定位组件测试.htm","pc":"定位组件测试.htm","mobile":"定位组件测试_m.htm"}</templateFile>
+            <grid>false</grid>
+            <gridSetting></gridSetting>
+            <orderBy></orderBy>
+            <pageLimit>0</pageLimit>
+            <boModelId>1559e0dc-465f-4134-b012-d01fe399de20</boModelId>
+            <dictionaryFileName></dictionaryFileName>
+            <hiddenHead>false</hiddenHead>
+            <theme>{"pc":"_bpm.platform","mobile":"_bpm.platform"}</theme>
+            <itemDisplays/>
+            <scheme>{}</scheme>
+            <calcFormula></calcFormula>
+            <conditionControl></conditionControl>
+            <validate></validate>
+            <icon></icon>
+            <gridControl></gridControl>
+            <summaryControl></summaryControl>
+            <ruleControl></ruleControl>
+            <hiddenFields></hiddenFields>
+            <hiddenAddBtn>false</hiddenAddBtn>
+        </formItem>
+    </formItems>
+</formModel>

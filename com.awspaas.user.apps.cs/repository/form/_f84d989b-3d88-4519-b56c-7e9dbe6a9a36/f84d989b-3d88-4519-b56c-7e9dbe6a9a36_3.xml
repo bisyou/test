@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<formModel>
+    <id>f84d989b-3d88-4519-b56c-7e9dbe6a9a36</id>
+    <createUser>admin</createUser>
+    <createTime>2019-07-01 20:05:11</createTime>
+    <updateUser></updateUser>
+    <updateTime>2019-07-01 20:05:17</updateTime>
+    <signature>tGOmxiTgjT/77UoYpSlq8Vc+hHPRoJWHdZexXc7zEpYuMNdhvSICeJnlc/RzRHGrKJ2AHxyYxQSkefgydploedtKtfrgl/XffcCaYjVRvXAYCn7FtIP7kubxfVaB8SK9</signature>
+    <managed>false</managed>
+    <title>名称测试</title>
+    <deleted>false</deleted>
+    <categoryName>测试</categoryName>
+    <administrator>admin</administrator>
+    <defaultLanguage></defaultLanguage>
+    <url></url>
+    <urlHeight></urlHeight>
+    <formItems>
+        <formItem>
+            <id>d1de656c-970b-4052-baa0-934fb95e7ede</id>
+            <title>名称测试</title>
+            <templateFile>{"tablet":"名称测试.htm","pc":"测试-名称测试.htm","mobile":"测试-名称测试_m.htm"}</templateFile>
+            <grid>false</grid>
+            <gridSetting></gridSetting>
+            <orderBy></orderBy>
+            <pageLimit>0</pageLimit>
+            <boModelId>fc14ddc9-49b4-4067-bda5-7242da652db0</boModelId>
+            <dictionaryFileName></dictionaryFileName>
+            <hiddenHead>false</hiddenHead>
+            <theme>{"pc":"_bpm.platform","mobile":"_bpm.platform"}</theme>
+            <itemDisplays/>
+            <scheme>{"pc":"scheme_aws.css","mobile":""}</scheme>
+            <calcFormula></calcFormula>
+            <conditionControl></conditionControl>
+            <validate></validate>
+            <icon></icon>
+            <gridControl></gridControl>
+            <summaryControl></summaryControl>
+            <ruleControl></ruleControl>
+            <hiddenFields></hiddenFields>
+            <hiddenAddBtn>false</hiddenAddBtn>
+        </formItem>
+    </formItems>
+</formModel>

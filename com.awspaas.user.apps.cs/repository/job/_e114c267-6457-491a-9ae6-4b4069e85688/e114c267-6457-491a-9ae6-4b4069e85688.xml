@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<awsScheduleModel>
+    <id>e114c267-6457-491a-9ae6-4b4069e85688</id>
+    <createUser>admin</createUser>
+    <createTime>2019-06-10 17:15:29</createTime>
+    <updateUser></updateUser>
+    <updateTime>2019-06-10 17:16:59</updateTime>
+    <signature>tGOmxiTgjT/77UoYpSlq8Vc+hHPRoJWHdZexXc7zEpYuMNdhvSICeJnlc/RzRHGr5O0wQ80umdIn0YRWXrXgNDehBVw+8jc5ZQhd4In+yMNGoS2WFmJXNXHDRHPh8Bef</signature>
+    <managed>false</managed>
+    <name>超过一定时间自动删除起草的待办任务</name>
+    <group>DEFAULT</group>
+    <desc></desc>
+    <disabled>false</disabled>
+    <system>false</system>
+    <classz>com.awspaas.user.apps.cs.job.TaskTimeoutAutoDeleteTaskJob</classz>
+    <createDate>2019-06-10T17:15:29+08:00</createDate>
+    <triggerRule>6:10:-1</triggerRule>
+    <userParam>30000</userParam>
+    <lastToken></lastToken>
+    <concurrent>false</concurrent>
+    <categoryName>未分类</categoryName>
+    <stateful>false</stateful>
+</awsScheduleModel>

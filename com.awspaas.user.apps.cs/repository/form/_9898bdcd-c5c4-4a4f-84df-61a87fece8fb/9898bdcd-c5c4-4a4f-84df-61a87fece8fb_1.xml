@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<formModel>
+    <id>9898bdcd-c5c4-4a4f-84df-61a87fece8fb</id>
+    <createUser>admin</createUser>
+    <createTime>2019-07-18 15:50:55</createTime>
+    <updateUser></updateUser>
+    <updateTime>2019-07-25 16:46:10</updateTime>
+    <signature>tGOmxiTgjT/77UoYpSlq8Vc+hHPRoJWHdZexXc7zEpYuMNdhvSICeJnlc/RzRHGrK0/SaW+i8XY+Cwn0ZFJuYfkp4mu8so9rKpHw36lPyaOHyZG+q+auclcHGta8pCKh</signature>
+    <managed>false</managed>
+    <title>人员信息对照表</title>
+    <deleted>false</deleted>
+    <categoryName>测试</categoryName>
+    <administrator>admin</administrator>
+    <defaultLanguage></defaultLanguage>
+    <url></url>
+    <urlHeight></urlHeight>
+    <formItems>
+        <formItem>
+            <id>51e75dda-d1f0-4d65-87f8-9e0dab8c1bf9</id>
+            <title>人员信息对照表</title>
+            <templateFile>{"tablet":"测试-人员信息对照表.htm","pc":"测试-人员信息对照表.htm","mobile":"测试-人员信息对照表_m.htm"}</templateFile>
+            <grid>false</grid>
+            <gridSetting></gridSetting>
+            <orderBy></orderBy>
+            <pageLimit>0</pageLimit>
+            <boModelId>6b812137-4d2f-49b5-912a-1ecb562b24c2</boModelId>
+            <dictionaryFileName></dictionaryFileName>
+            <hiddenHead>false</hiddenHead>
+            <theme>{"pc":"_bpm.platform","mobile":"_bpm.platform"}</theme>
+            <itemDisplays/>
+            <scheme>{"pc":"scheme_aws.css","mobile":""}</scheme>
+            <calcFormula></calcFormula>
+            <conditionControl></conditionControl>
+            <validate></validate>
+            <icon></icon>
+            <gridControl></gridControl>
+            <summaryControl></summaryControl>
+            <ruleControl></ruleControl>
+            <hiddenFields></hiddenFields>
+            <hiddenAddBtn>false</hiddenAddBtn>
+        </formItem>
+    </formItems>
+</formModel>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<aws-actions>
+	<cmd-bean name="com.awspaas.user.apps.cs_dataSort">
+		<param name="arr"></param>
+    </cmd-bean>   
+</aws-actions>

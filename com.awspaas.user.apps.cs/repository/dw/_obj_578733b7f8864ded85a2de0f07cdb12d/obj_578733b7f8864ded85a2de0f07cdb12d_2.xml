@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AWSDWModel>
+    <id>obj_578733b7f8864ded85a2de0f07cdb12d</id>
+    <createUser>admin</createUser>
+    <createTime>2019-08-24 14:12:13</createTime>
+    <updateUser></updateUser>
+    <updateTime>2019-08-24 14:12:13</updateTime>
+    <signature>DgQSSyFmOqrf7WQa6WFesZuTOnzFe+zevZg0BYW55MuhMOtUylRD92QW2MZY8fzua2O2GPCMhvx9bDiWhIOn/1EqRLFWpfu2Z59sJqj/+6T/W7yc5pVIR3/coQQkv6w+</signature>
+    <managed>false</managed>
+    <processGroupId>obj_578733b7f8864ded85a2de0f07cdb12d</processGroupId>
+    <processGroupName>星期排序测试</processGroupName>
+    <categoryName>未分类</categoryName>
+    <dwType>1</dwType>
+    <processAdministrator></processAdministrator>
+    <title id="obj_511de53c9594425780b1eca10ffef2cc" label="星期排序测试" extendcode="" event=""/>
+    <userextendbuttons/>
+    <userextendbehaviors/>
+</AWSDWModel>

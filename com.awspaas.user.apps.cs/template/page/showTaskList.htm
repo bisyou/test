@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>待办任务页面布局</title>
+<meta http-equiv='Content-Type' content='text/html; charset=UTF-8' />
+<!-- 平台固定写法 -->
+<link rel="stylesheet" type="text/css" href="../commons/css/awsui.css">
+<script type="text/javascript"
+	src="../commons/js/jquery/scripts/jquery.js"></script>
+<script type="text/javascript" src="../commons/js/awsui.js"></script>
+<!--变成手形光标-->
+<style>
+.papers {
+	cursor: pointer;
+}
+</style>
+</head>
+<!-- 页面展示效果 -->
+<body>
+	<form>
+		<table class="table table-bordered" id="demo1" border="1px"
+			align="center" cellpadding="0px" cellspacing="0px">
+			<thead>
+				<tr bgcolor="#87CEEB">
+					<th style="width: 20%; font-size: 20px">序号</th>
+					<th style="width: 30%; font-size: 20px">标题</th>
+					<th style="width: 20%; font-size: 20px">来自</th>
+					<th style="width: 30%; font-size: 20px">日期</th>
+				</tr>
+			</thead>
+			<tbody bgcolor="#F0F8FF">
+				<!-- 后台动态传过来给前台的信息 -->
+				<#trHtmls>
+			</tbody>
+		</table>
+		<!-- 后台传递的动态sid -->
+		<input type="hidden" id="sid" name="sid" value="<#sid>" />
+
+		<script>
+			function openTaskForm(url) {
+				//window.location =url;
+				//location.replace(url);
+				window.open(url , "_blank" , "", false);
+			}
+		</script>
+	</form>
+</body>
+</html>

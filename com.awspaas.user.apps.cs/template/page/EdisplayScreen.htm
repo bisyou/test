@@ -1,0 +1,125 @@
+<html>
+<head>
+<title></title>
+<meta http-equiv='Content-Type' content='text/html; charset=UTF-8' />
+
+<link rel="stylesheet" type="text/css"
+	href="/portal/commons/css/awsui.css">
+<script type="text/javascript"
+	src="/portal/commons/js/jquery/scripts/jquery.js"></script>
+<script type="text/javascript" src="/portal/commons/js/awsui.js"></script>
+<!--
+<script type="text/javascript"
+	src="/portal/apps/com.awspaas.user.apps.message.inout/js/qrcode.js"></script>
+	-->
+<style>
+</style>
+</head>
+<body>
+	<table class="" border="1" cellpadding="0px" cellspacing="0px" width="100%" height="100%">
+		<tr>
+			<td width="40%">
+				<h3>西安天气预报</h3>
+				<div id="parent_weather" style="float: left;">
+					<div id="today" class="weather" style="float: left;">
+						<h4>今天</h4>
+						<span>多云</span>
+						<span>25</span>度~
+						<span>30</span>度
+						<br/>空气质量:<span id="">优</span>
+					</div>
+					<div id="tomorrow" class="weather" style="float: left;">
+						<h4>明天</h4>
+						<span>多云</span>
+						<span>25</span>度~
+						<span>30</span>度
+						<br/>空气质量:<span id="">优</span>
+					</div>
+					<div id="houtian" class="weather" style="float: left;">
+						<h4>后天</h4>
+						<span>多云</span>
+						<span>25</span>度~
+						<span>30</span>度
+						<br/>空气质量:<span id="">优</span>
+					</div>
+				</div>
+			</td>
+			<td rowspan="2">
+				<div id="notices">公告</div>
+			</td>
+		</tr>
+		<tr >
+			<td>
+				<div id="slogan">标语</div>
+			</td>
+
+		</tr>
+	</table>
+
+	<script>
+		window.onload = showMsgQrCode;
+
+		var qrcode;
+		function showMsgQrCode() {			
+			if (qrcode) {
+				qrcode.clear();
+			} else {	            
+				qrcode = new QRCode('qrcode', {
+				text : '',
+				width : 384,
+				height : 384,
+				colorDark : '#000000',
+				colorLight : '#ffffff',
+				correctLevel : QRCode.CorrectLevel.H
+				});
+			}
+			
+			$.ajax({
+				url : "/portal/r/jd",
+				async : true,//true异步 false同步 不设置的话默认是true异步
+				method : "POST",
+				data : {
+					cmd : "com.awspaas.user.apps.message.inout_showReadyToSendMsg"//cmd命名格式 应用名.模块名_功能名 尽量全部小写
+				},
+				success : function(r) {debugger
+					if(r.result=="ok"){
+						var msg = JSON.stringify(r.data);
+						if (msg != "" && msg != "[]") {
+							qrcode.makeCode(msg);
+						}
+					}
+				},
+				error : function() {
+					
+				}
+			});
+			
+			window.setTimeout(showMsgQrCode, 5 * 1000);
+
+		}
+
+		function callEnter() {
+			var code = document.all ? window.event.keyCode : arguments.callee.caller.arguments[0].which;
+			if (code == "13") {
+				var textInfo = $("#receivedMsg").val();
+				if (textInfo!="") {
+					$.ajax({
+						url : "/portal/r/jd",
+						async : true,//true异步 false同步 不设置的话默认是true异步
+						method : "POST",
+						data : {
+						cmd : "com.awspaas.user.apps.message.inout_receivedMsg",//cmd命名格式 应用名.模块名_功能名 尽量全部小写
+						msg : textInfo
+						},
+						success : function(r) {
+						},
+						error : function() {
+						}
+					});
+				}
+				$("#receivedMsg").val("");
+			}
+		}
+	</script>
+</body>
+</html>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<app xmlns="http://www.actionsoft.com.cn/app">  
+  <name>测试应用</name>  
+  <version>1.0</version>  
+  <buildNo>3</buildNo>  
+  <developer id="00000000000000000000000000000000" tablePrefix="CS" url="http://www.awspaas.com">北京炎黄盈动科技发展有限责任公司</developer>  
+  <categoryVisible>true</categoryVisible>  
+  <description><![CDATA[]]></description>  
+  <details><![CDATA[]]></details>  
+  <installListener></installListener>  
+  <pluginListener>com.awspaas.user.apps.cs.Plugins</pluginListener>  
+  <startListener></startListener>  
+  <stopListener></stopListener>  
+  <upgradeListener></upgradeListener>  
+  <uninstallListener></uninstallListener>  
+  <reloadable>true</reloadable>  
+  <requires> 
+    <require appId="com.actionsoft.apps.addons.onlinedoc" notActiveHandler="none"/> 
+  </requires>  
+  <properties> 
+    <property action="disabled" group="自定义" name="boName" title="表名称" type="input" isSystem="false" desc="" ref="">BO_CS_RYXXDZB</property> 
+  </properties>  
+  <allowStartup>true</allowStartup>  
+  <allowUpgradeByStore>true</allowUpgradeByStore>  
+  <depend versions="6.2" env="">_bpm.portal</depend>  
+  <modelAdministrator></modelAdministrator>  
+  <installDate>2019-06-03 15:22:43</installDate>  
+  <productId></productId> 
+</app>

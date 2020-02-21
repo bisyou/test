@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<formModel>
+    <id>2d96a8af-54f5-425c-ae86-ebb401bebaee</id>
+    <createUser>admin</createUser>
+    <createTime>2019-07-04 15:36:43</createTime>
+    <updateUser></updateUser>
+    <updateTime>2019-07-10 20:40:01</updateTime>
+    <signature>tGOmxiTgjT/77UoYpSlq8Vc+hHPRoJWHdZexXc7zEpYuMNdhvSICeJnlc/RzRHGrWVjYSCojaI/rRE2fDi6WgSxky/hme+cQhmguUPqyNCY1OzfO5XtC/Bs/PbMg+Ppc</signature>
+    <managed>false</managed>
+    <title>隐藏审批记录测试</title>
+    <deleted>false</deleted>
+    <categoryName>测试</categoryName>
+    <administrator>admin</administrator>
+    <defaultLanguage></defaultLanguage>
+    <url></url>
+    <urlHeight></urlHeight>
+    <formItems>
+        <formItem>
+            <id>e53de4cc-83be-4196-9688-d2a9d564ebc5</id>
+            <title>隐藏审批记录测试</title>
+            <templateFile>{"tablet":"隐藏审批记录测试.htm","pc":"测试-隐藏审批记录测试.htm","mobile":"测试-隐藏审批记录测试_m.htm"}</templateFile>
+            <grid>false</grid>
+            <gridSetting></gridSetting>
+            <orderBy></orderBy>
+            <pageLimit>0</pageLimit>
+            <boModelId>58ba0add-2f3c-4cd2-a2e3-0900370c23c4</boModelId>
+            <dictionaryFileName></dictionaryFileName>
+            <hiddenHead>false</hiddenHead>
+            <theme>{"pc":"_bpm.platform","mobile":"_bpm.platform"}</theme>
+            <itemDisplays/>
+            <scheme>{"pc":"scheme_aws.css","mobile":""}</scheme>
+            <calcFormula></calcFormula>
+            <conditionControl></conditionControl>
+            <validate></validate>
+            <icon></icon>
+            <gridControl></gridControl>
+            <summaryControl></summaryControl>
+            <ruleControl></ruleControl>
+            <hiddenFields></hiddenFields>
+            <hiddenAddBtn>false</hiddenAddBtn>
+        </formItem>
+    </formItems>
+</formModel>

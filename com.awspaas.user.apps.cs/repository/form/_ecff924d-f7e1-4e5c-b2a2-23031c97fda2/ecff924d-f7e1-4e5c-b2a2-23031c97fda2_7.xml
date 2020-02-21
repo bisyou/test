@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<formModel>
+    <id>ecff924d-f7e1-4e5c-b2a2-23031c97fda2</id>
+    <createUser>admin</createUser>
+    <createTime>2019-06-05 01:53:57</createTime>
+    <updateUser></updateUser>
+    <updateTime>2019-08-01 20:55:02</updateTime>
+    <signature>tGOmxiTgjT/77UoYpSlq8Vc+hHPRoJWHdZexXc7zEpYuMNdhvSICeJnlc/RzRHGrvbR4XzagjiHXymJEEGCKMAJQrynAa9rDh5bNcfclFJy5br7PgrhBhpUU4dtnZeOs</signature>
+    <managed>false</managed>
+    <title>复制附件测试1</title>
+    <deleted>false</deleted>
+    <categoryName>测试</categoryName>
+    <administrator>admin</administrator>
+    <defaultLanguage></defaultLanguage>
+    <url></url>
+    <urlHeight></urlHeight>
+    <formItems>
+        <formItem>
+            <id>1abb3c14-97be-4d82-a272-937f39e1a1b8</id>
+            <title>复制附件测试1</title>
+            <templateFile>{"tablet":"复制附件测试1.htm","pc":"测试-复制附件测试1.htm","mobile":"测试-复制附件测试1_m.htm"}</templateFile>
+            <grid>false</grid>
+            <gridSetting></gridSetting>
+            <orderBy></orderBy>
+            <pageLimit>0</pageLimit>
+            <boModelId>6ce52a50-27e2-4283-a641-f6c78cce8703</boModelId>
+            <dictionaryFileName></dictionaryFileName>
+            <hiddenHead>false</hiddenHead>
+            <theme>{"pc":"_bpm.platform","mobile":"_bpm.platform"}</theme>
+            <itemDisplays/>
+            <scheme>{"pc":"scheme_aws.css","mobile":""}</scheme>
+            <calcFormula></calcFormula>
+            <conditionControl></conditionControl>
+            <validate></validate>
+            <icon></icon>
+            <gridControl></gridControl>
+            <summaryControl></summaryControl>
+            <ruleControl></ruleControl>
+            <hiddenFields></hiddenFields>
+            <hiddenAddBtn>false</hiddenAddBtn>
+        </formItem>
+    </formItems>
+</formModel>

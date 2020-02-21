@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<formModel>
+    <id>fd2f4977-aff2-4c7b-93af-cfbc31116448</id>
+    <createUser>admin</createUser>
+    <createTime>2019-06-13 15:28:22</createTime>
+    <updateUser></updateUser>
+    <updateTime>2019-07-31 15:38:38</updateTime>
+    <signature>tGOmxiTgjT/77UoYpSlq8Vc+hHPRoJWHdZexXc7zEpYuMNdhvSICeJnlc/RzRHGr7A6NaGMju8eUljSTkKr7VPqB2ldq8uJuXEKGuamZ52GvxfuJV4jv+xZRDsz4lI7s</signature>
+    <managed>false</managed>
+    <title>隐藏子表保存按钮测试</title>
+    <deleted>false</deleted>
+    <categoryName>测试</categoryName>
+    <administrator>admin</administrator>
+    <defaultLanguage></defaultLanguage>
+    <url></url>
+    <urlHeight></urlHeight>
+    <formItems>
+        <formItem>
+            <id>59fe1583-34c2-4319-9e89-07f4414c848c</id>
+            <title>隐藏子表保存按钮测试</title>
+            <templateFile>{"tablet":"隐藏子表保存按钮测试.htm","pc":"测试-隐藏子表保存按钮测试.htm","mobile":"测试-隐藏子表保存按钮测试_m.htm"}</templateFile>
+            <grid>false</grid>
+            <gridSetting></gridSetting>
+            <orderBy></orderBy>
+            <pageLimit>0</pageLimit>
+            <boModelId>0e8969eb-fff0-4fba-8cc7-c7fd1f4eaddb</boModelId>
+            <dictionaryFileName></dictionaryFileName>
+            <hiddenHead>false</hiddenHead>
+            <theme>{"pc":"_bpm.platform","mobile":"_bpm.platform"}</theme>
+            <itemDisplays/>
+            <scheme>{"pc":"scheme_aws.css","mobile":"scheme_aws.css"}</scheme>
+            <calcFormula></calcFormula>
+            <conditionControl></conditionControl>
+            <validate></validate>
+            <icon></icon>
+            <gridControl></gridControl>
+            <summaryControl></summaryControl>
+            <ruleControl></ruleControl>
+            <hiddenFields></hiddenFields>
+            <hiddenAddBtn>false</hiddenAddBtn>
+        </formItem>
+        <formItem>
+            <id>3c60cd8c-a364-46ad-b039-1f661d340c9a</id>
+            <title>隐藏子表保存按钮子表</title>
+            <templateFile>{"tablet":"","pc":"测试-隐藏子表保存按钮测试-隐藏子表保存按钮子表.htm","mobile":""}</templateFile>
+            <grid>true</grid>
+            <gridSetting>{"width":"100%","height":"","dlgWidth":"90%","dlgHeight":"90%","gridStyle":"thin","gridOpenMode":"dialog","gridSideWidth":"80%","gridSideMode":"false","displayTitle":"false","renderType":"grid","renderClass":"","fontColor":[],"colColor":[],"wrap":false,"columnResizable":false,"freezeCols":"0","sort":"","grouping":"","addSort":"bottom","mobileRenderClass":""}</gridSetting>
+            <orderBy></orderBy>
+            <pageLimit>0</pageLimit>
+            <boModelId>f5f6ee82-d0d3-45b1-9552-cec8bade027c</boModelId>
+            <dictionaryFileName>[{"fileName":"dic_71c33fd301724e2bb89bcc5ad2992578.xml","btnName":"源数据录入","orderIndex":"1"}]</dictionaryFileName>
+            <hiddenHead>false</hiddenHead>
+            <theme>{"pc":"_bpm.platform","mobile":"_bpm.platform"}</theme>
+            <itemDisplays/>
+            <scheme>{"pc":"scheme_aws.css"}</scheme>
+            <calcFormula></calcFormula>
+            <conditionControl>{}</conditionControl>
+            <validate></validate>
+            <icon></icon>
+            <gridControl>{"isCollapse":false,"title":"","unit":"","event":"","stat":"","field":"","isMultiColumn":false,"mobileGridRowDisplay":"","mobileRenderClass":""}</gridControl>
+            <summaryControl></summaryControl>
+            <ruleControl>{"displayRule":[],"requiredRule":[],"modifyRule":[],"calcRule":[]}</ruleControl>
+            <hiddenFields></hiddenFields>
+            <hiddenAddBtn>false</hiddenAddBtn>
+        </formItem>
+    </formItems>
+</formModel>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AWSDWModel>
+    <id>obj_59d9745b5f804fbebccefb79bdd10fbc</id>
+    <createUser>admin</createUser>
+    <createTime>2019-07-29 09:16:14</createTime>
+    <updateUser></updateUser>
+    <updateTime>2019-07-29 09:16:14</updateTime>
+    <signature>tGOmxiTgjT/77UoYpSlq8Vc+hHPRoJWHdZexXc7zEpYuMNdhvSICeJnlc/RzRHGrGGs1El1JFKYt11avptz6FlxdIYlBat15O+OkghFqdS4Lr/1SePc8dAhjZNq8XXql</signature>
+    <managed>false</managed>
+    <processGroupId>obj_59d9745b5f804fbebccefb79bdd10fbc</processGroupId>
+    <processGroupName>物品类别台账</processGroupName>
+    <categoryName>未分类</categoryName>
+    <dwType>1</dwType>
+    <processAdministrator></processAdministrator>
+    <title id="obj_891b0315a3e54c92bbda57a4eb5270a0" label="物品类别台账" extendcode="" event=""/>
+    <userextendbuttons/>
+    <userextendbehaviors/>
+</AWSDWModel>
