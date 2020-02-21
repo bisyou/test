@@ -18,8 +18,6 @@ public class CsController {
 		CsWeb cw =new CsWeb();
 		System.out.println("测试000000");
 		System.out.println("测试111111");
-		System.out.println("测试222222");
-		System.out.println("测试333333");
 		return cw.queryTask(uc);
 	}
 	
