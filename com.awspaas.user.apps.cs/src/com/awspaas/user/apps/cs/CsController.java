@@ -16,11 +16,10 @@ public class CsController {
 	@Mapping("com.awspaas.user.apps.cs_showTaskList")
 	public String showTaskList(UserContext uc) {
 		CsWeb cw =new CsWeb();
-		system.out.println("测试000000");
-		system.out.println("测试111111");
-		system.out.println("测试222222");
-		system.out.println("测试333333");
-		system.out.println("测试444444");
+		System.out.println("测试000000");
+		System.out.println("测试111111");
+		System.out.println("测试222222");
+		System.out.println("测试333333");
 		return cw.queryTask(uc);
 	}
 	
